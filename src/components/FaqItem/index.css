@@ -1,0 +1,26 @@
+/* Write your code here. */
+.list-item {
+  border: 1px solid #d7dae6;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+.para-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  width: 20px;
+  height: 20px;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.question-heading {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
